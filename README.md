@@ -1,4 +1,6 @@
 planting-seeds
 ==============
 
-Random stuff
+Random stuff.  Scripts, ideas, general whatever that may or may not become something more.
+
+
